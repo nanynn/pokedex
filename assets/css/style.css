@@ -23,3 +23,33 @@ body{
 h1{
 	color: #e84848;
 }
+
+.poke-espacio{
+	width: 100%;
+	padding: 0;
+}
+
+.poke-img, .poke-texto{
+	background-color: #efefef;
+	text-decoration: none;
+	width: 80%;
+}
+
+.poke-texto{
+	text-align: center;
+	color: #646464;
+	margin-bottom: 20px;
+}
+.buscador{
+	position: relative;
+	padding: 0;
+}
+.lupa{
+	padding: 0;
+}
+
+.fa-search {
+	position: absolute;
+	top:0;
+	left: 0;
+}
